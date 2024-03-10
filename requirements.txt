@@ -1,0 +1,9 @@
+matplotlib
+seaborn
+yfinance
+statsmodels
+plotly
+skicit-learn
+xgboost
+tensorflow
+TensorRT
